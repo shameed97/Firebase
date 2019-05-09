@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="enter_your_number">Enter your number...</string>
+    <string name="firebase_message_will_appear_here">Firebase Message will appear here...</string>
+</resources>
